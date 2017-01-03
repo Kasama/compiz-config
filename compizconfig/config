@@ -1,0 +1,10 @@
+[kde_session]
+profile = 
+backend = ini
+integration = true
+plugin_list_autosort = true
+
+[general]
+profile = Kasama-Notebook
+integration = true
+
