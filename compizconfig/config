@@ -8,3 +8,9 @@ plugin_list_autosort = true
 profile = Kasama-Notebook
 integration = true
 
+[mate_session]
+backend = ini
+profile = 
+integration = true
+plugin_list_autosort = true
+
